@@ -1,0 +1,20 @@
+# EtherCat
+
+loadusr -W lcec_conf /home/george/linuxcnc/configs/sim.axis/ethercat-conf.xml
+loadrt lcec
+
+addf lcec.read-all servo-thread
+addf lcec.write-all servo-thread
+
+setp lcec.0.0.drivecontrol 1
+setp lcec.0.0.drivecontrol 1
+
+net Xachse_fb lcec.0.0.pos => axis.0.motor-pos-fb
+net Xachse_cmd axis.0.motor-pos-cmd => lcec.0.0.poscommand
+net Xachse_speed_cmd axis.0.joint-vel-cmd => lcec.0.0.speedcommand
+
+net Xachse_AF axis.0.amp-enable-put => lcec.0.0.drivecontrol-3
+net Xachse_torque lcec.0.0.torque
+
+# net mon halui.machine.on lcec.0.EL1018_01.din-2
+# net moff halui.machine.off lcec.0.EL1018_01.din-3 

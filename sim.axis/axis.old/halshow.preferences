@@ -1,0 +1,44 @@
+# Halshow settings
+# This file is generated automatically.
+wm geometry . 1247x855+436+159
+placeFrames 0.3
+set ::ratio 0.3
+set ::old_w_leftf 160
+set ::watchlist {
+    pin+lcec.0.ASDA.din-0
+    pin+lcec.0.ASDA.din-1
+    pin+lcec.0.ASDA.din-10
+    pin+lcec.0.ASDA.din-11
+    pin+lcec.0.ASDA.din-12
+    pin+lcec.0.ASDA.din-2
+    pin+lcec.0.ASDA.din-3
+    pin+lcec.0.ASDA.din-4
+    pin+lcec.0.ASDA.din-5
+    pin+lcec.0.ASDA.din-6
+    pin+lcec.0.ASDA.din-7
+    pin+lcec.0.ASDA.din-8
+    pin+lcec.0.ASDA.din-9
+    pin+lcec.0.ASDA.slave-online
+    pin+lcec.0.ASDA.slave-oper
+    pin+lcec.0.ASDA.slave-state-init
+    pin+lcec.0.ASDA.slave-state-op
+    pin+lcec.0.ASDA.slave-state-preop
+    pin+lcec.0.ASDA.slave-state-safeop
+    pin+lcec.0.all-op
+    pin+lcec.0.link-up
+    pin+lcec.0.pll-err
+    pin+lcec.0.pll-out
+    pin+lcec.0.pll-reset-count
+    pin+lcec.0.state-init
+    pin+lcec.0.state-op
+    pin+lcec.0.state-preop
+    pin+lcec.0.state-safeop
+    pin+lcec.0.write.time
+}
+set ::workmode watchhal
+set ::watchInterval 100
+set ::col1_width 100
+set ::ffmts 
+set ::ifmts 
+set ::alwaysOnTop 0
+set ::autoSaveWatchlist 1

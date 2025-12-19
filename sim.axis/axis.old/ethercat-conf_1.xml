@@ -1,0 +1,29 @@
+<masters>
+  <master idx="0" appTimePeriod="1000000" refClockSyncCycles="1">
+    <slave idx="1" type="generic" vid="000001dd" pid="10305070" name="ASDA" configPdos="true">
+    <syncManager idx="0" dir="in">
+	<pdo idx="1a00">
+	  <pdoEntry idx="6041" subIdx="00" bitLen="16" halPin="din-0" halType="u32"/>
+	  <pdoEntry idx="6064" subIdx="00" bitLen="32" halPin="din-1" halType="u32"/>
+	  <pdoEntry idx="606c" subIdx="00" bitLen="32" halPin="din-2" halType="u32"/>
+	  <pdoEntry idx="6077" subIdx="00" bitLen="16" halPin="din-3" halType="s32"/>
+	  <pdoEntry idx="6061" subIdx="00" bitLen="8" halPin="din-4" halType="s32"/>
+	</pdo>
+	<pdo idx="1a01">
+	  <pdoEntry idx="6041" subIdx="00" bitLen="16" halPin="din-5" halType="u32"/>
+	  <pdoEntry idx="6064" subIdx="00" bitLen="32" halPin="din-6" halType="s32"/>
+	</pdo>
+	<pdo idx="1a02">
+	  <pdoEntry idx="6041" subIdx="00" bitLen="16" halPin="din-7" halType="u32"/>
+	  <pdoEntry idx="6064" subIdx="00" bitLen="32" halPin="din-8" halType="s32"/>
+	  <pdoEntry idx="606c" subIdx="00" bitLen="32" halPin="din-9" halType="s32"/>
+	</pdo>
+	<pdo idx="1a03">
+	  <pdoEntry idx="6041" subIdx="00" bitLen="16" halPin="din-10" halType="u32"/>
+	  <pdoEntry idx="6064" subIdx="00" bitLen="32" halPin="din-11" halType="s32"/>
+	  <pdoEntry idx="6077" subIdx="00" bitLen="16" halPin="din-12" halType="s32"/>
+	</pdo>
+      </syncManager>
+    </slave>
+   </master>
+</masters>

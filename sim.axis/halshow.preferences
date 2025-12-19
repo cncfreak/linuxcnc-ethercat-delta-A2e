@@ -1,0 +1,34 @@
+# Halshow settings
+# This file is generated automatically.
+wm geometry . 789x964+1097+27
+placeFrames 0.2471042471042471
+set ::ratio 0.2471042471042471
+set ::old_w_leftf 160
+set ::watchlist {
+    sig+DIN0
+    sig+DIN1
+    sig+DIN2
+    sig+DIN3
+    sig+DIN4
+    sig+DIN5
+    sig+DIN6
+    sig+DIN7
+    sig+DIN8
+    sig+DIN9
+    sig+DIN10
+    sig+DIN11
+    sig+DIN12
+    sig+DIN13
+    sig+DO0
+    sig+DO1
+    sig+DO2
+    sig+DO3
+    sig+DO4
+}
+set ::workmode watchhal
+set ::watchInterval 100
+set ::col1_width 100
+set ::ffmts 
+set ::ifmts 
+set ::alwaysOnTop 0
+set ::autoSaveWatchlist 1
