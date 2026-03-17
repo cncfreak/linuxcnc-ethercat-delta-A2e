@@ -1,0 +1,19 @@
+--- QtVCP Screen Started on: Fri, Mar 13 2026 05:18:02 PM ---
+--- Flatbed Mechanics - QtPlasmaC v2.9-238.315, powered by QtVCP and LinuxCNC ---
+Fri13 17:18: Tool 0: No Tool
+Fri13 17:18: Emergency stop cleared
+Fri13 17:18: GUI power on
+Fri13 17:18: Float Switch has disabled jogging
+Fri13 17:21: Machine homed
+Fri13 17:21: Tool 0: torch
+Fri13 17:22: Loaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_wrench.ngc
+Fri13 17:22: Cycle started - Torch disabled
+Fri13 17:23: Cycle paused
+Fri13 17:23: float switch activated
+program is paused.
+Fri13 17:23: Cycle resumed
+Fri13 17:23: Cycle paused
+Fri13 17:23: float switch activated
+program is paused.
+Fri13 17:23: Cycle resumed
+Fri13 17:24: Machine idle

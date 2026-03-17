@@ -1,0 +1,9 @@
+--- QtVCP Screen Started on: Mon, Mar 16 2026 04:31:15 PM ---
+--- Flatbed Mechanics - QtPlasmaC v2.9-238.315, powered by QtVCP and LinuxCNC ---
+Mon16 16:31: Tool 0: No Tool
+Mon16 16:31: Emergency stop cleared
+Mon16 16:31: GUI power on
+Mon16 16:31: GUI power off
+Mon16 16:31: GUI power on
+Mon16 16:32: Machine homed
+Mon16 16:32: Tool 0: torch

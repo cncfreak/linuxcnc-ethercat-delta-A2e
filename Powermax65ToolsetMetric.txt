@@ -1,0 +1,475 @@
+[Tool0]
+Type=PlasmaTool
+Name=65 amp 16 gauge steel
+Comment=
+Tool\ number=1
+Kerf\ width=1.524
+Plunge\ rate=3810
+Pierce\ delay=0
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=6350
+[Tool0/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=123
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool1]
+Type=PlasmaTool
+Name=65 amp 10 gauge steel
+Comment=
+Tool\ number=2
+Kerf\ width=1.651
+Plunge\ rate=3810
+Pierce\ delay=0
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=4826
+[Tool1/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=125
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool2]
+Type=PlasmaTool
+Name=65 amp 3/16 steel
+Comment=
+Tool\ number=3
+Kerf\ width=1.7272
+Plunge\ rate=3810
+Pierce\ delay=0
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=3378.1999999999998
+[Tool2/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=126
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool3]
+Type=PlasmaTool
+Name=65 amp 1/4 steel
+Comment=
+Tool\ number=4
+Kerf\ width=1.778
+Plunge\ rate=3810
+Pierce\ delay=0.3
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=2286
+[Tool3/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=127
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool4]
+Type=PlasmaTool
+Name=65 amp 3/8 steel
+Comment=
+Tool\ number=5
+Kerf\ width=1.9304
+Plunge\ rate=3810
+Pierce\ delay=0.7
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=1016
+[Tool4/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=130
+DTHC\ delay\ -sec=2
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool5]
+Type=PlasmaTool
+Name=65 amp 1/2 steel
+Comment=
+Tool\ number=6
+Kerf\ width=2.2352
+Plunge\ rate=3810
+Pierce\ delay=1.3
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=4.571999999999999
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=762
+[Tool5/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=135
+DTHC\ delay\ -sec=3
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool6]
+Type=PlasmaTool
+Name=65 amp 5/8 steel
+Comment=
+Tool\ number=7
+Kerf\ width=2.286
+Plunge\ rate=3810
+Pierce\ delay=2
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=6.095999999999999
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=508
+[Tool6/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=138
+DTHC\ delay\ -sec=3
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool7]
+Type=PlasmaTool
+Name=65 amp 1/16 aluminum
+Comment=
+Tool\ number=8
+Kerf\ width=1.8542
+Plunge\ rate=3810
+Pierce\ delay=0
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=8890
+[Tool7/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=121
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool8]
+Type=PlasmaTool
+Name=65 amp 1/8 aluminum
+Comment=
+Tool\ number=9
+Kerf\ width=1.8796
+Plunge\ rate=3810
+Pierce\ delay=0
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=6858
+[Tool8/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=124
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool9]
+Type=PlasmaTool
+Name=65 amp 1/4 aluminum
+Comment=
+Tool\ number=10
+Kerf\ width=1.905
+Plunge\ rate=3810
+Pierce\ delay=0.5
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=2286
+[Tool9/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=131
+DTHC\ delay\ -sec=2
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool10]
+Type=PlasmaTool
+Name=65 amp 3/8 aluminum
+Comment=
+Tool\ number=11
+Kerf\ width=2.1082
+Plunge\ rate=3810
+Pierce\ delay=0.7
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=1270
+[Tool10/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=135
+DTHC\ delay\ -sec=2
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool11]
+Type=PlasmaTool
+Name=65 amp 1/2 aluminum
+Comment=
+Tool\ number=12
+Kerf\ width=2.3114
+Plunge\ rate=3810
+Pierce\ delay=1.2
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=4.571999999999999
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=838.19999999999993
+[Tool11/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=139
+DTHC\ delay\ -sec=3
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool12]
+Type=PlasmaTool
+Name=65 amp 16g stainless steel
+Comment=
+Tool\ number=13
+Kerf\ width=1.524
+Plunge\ rate=3810
+Pierce\ delay=0
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=8255
+[Tool12/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=124
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool13]
+Type=PlasmaTool
+Name=65 amp 10g stainless steel
+Comment=
+Tool\ number=14
+Kerf\ width=1.651
+Plunge\ rate=3810
+Pierce\ delay=0
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=5715
+[Tool13/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=125
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool14]
+Type=PlasmaTool
+Name=65 amp 3/16" stainless steel
+Comment=
+Tool\ number=15
+Kerf\ width=1.7272
+Plunge\ rate=3810
+Pierce\ delay=0.5
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=3937
+[Tool14/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=126
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool15]
+Type=PlasmaTool
+Name=65 amp 1/4" stainless steel
+Comment=
+Tool\ number=16
+Kerf\ width=1.778
+Plunge\ rate=3810
+Pierce\ delay=0.5
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=2032
+[Tool15/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=126
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool16]
+Type=PlasmaTool
+Name=65 amp 3/8" stainless steel
+Comment=
+Tool\ number=17
+Kerf\ width=1.9304
+Plunge\ rate=3810
+Pierce\ delay=1
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=1016
+[Tool16/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=131
+DTHC\ delay\ -sec=1
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool17]
+Type=PlasmaTool
+Name=65 amp 1/2" stainless steel
+Comment=
+Tool\ number=18
+Kerf\ width=2.2352
+Plunge\ rate=3810
+Pierce\ delay=1.5
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=4.571999999999999
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=660.39999999999998
+[Tool17/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=136
+DTHC\ delay\ -sec=2
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool18]
+Type=PlasmaTool
+Name=65 amp 5/8" stainless steel
+Comment=
+Tool\ number=19
+Kerf\ width=2.286
+Plunge\ rate=3810
+Pierce\ delay=1.75
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=4.571999999999999
+Cut\ height=1.524
+Pierce\ type=0
+Feed\ rate=660.39999999999998
+[Tool18/Custom]
+Preset\ current=65
+Preset\ Air\ Pressure=75
+Preset\ volts=139
+DTHC\ delay\ -sec=3
+Tip\ Size\ -Amps=65
+NO\ DTHC\ -\ 0=1
+[Tool19]
+Type=MarkerTool
+Name=CenterPunch
+Comment=
+Tool\ number=99
+Diameter=0.0254
+Plunge\ rate=3810
+Start\ delay=2
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=3.81
+Cut\ height=0
+Pierce\ type=0
+Feed\ rate=6350
+[Tool20]
+Type=MillTool
+Name=Rotary tool
+Comment=
+Tool\ number=100
+Diameter=3.175
+Flute\ length=14.224
+Spindle\ speed=10000
+Spindle\ direction=0
+Tool\ length\ offset=0
+Depth\ per\ pass=6.35
+Point\ angle=2.059488517353309
+Plunge\ rate=203.19999999999999
+Feed\ rate=889
+Ramp\ Angle=0
+[Tool21]
+Type=MarkerTool
+Name=Plate Marker
+Comment=
+Tool\ number=101
+Diameter=0.0254
+Plunge\ rate=3810
+Start\ delay=0.5
+Pause\ at\ end\ of\ cut=0.5
+Wiggle\ length=9.999979999999999
+Pierce\ height=2.99974
+Cut\ height=0
+Pierce\ type=0
+Feed\ rate=1270
+[Tool22]
+Type=CodeTool
+Name=DTHC-OFF
+Comment=
+Tool\ number=268435457
+Code=M67 E0 Q10 (DTHC OFF)
+[Tool23]
+Type=CodeTool
+Name=DTHC-ON
+Comment=
+Tool\ number=268435458
+Code=M67 E0 Q20 (DTHC ON)
+[pathRules]
+GlobalRule=1
+[pathRules/Set0]
+name=Holes
+[pathRules/Set0/Rule0]
+Class=PathRuleOnCircle
+Feed\ rate=0.65
+Start\ code=268435457
+End\ code=268435458
+Enabled=1
+Smaller\ than=38.099999999999994
+[pathRules/Set1]
+name=EOCAnti-Dive
+[pathRules/Set1/Rule0]
+Class=PathRuleBeforeEnd
+Feed\ rate=1
+Start\ code=268435457
+End\ code=-1
+Enabled=1
+Distance=14.350999999999997
+Include\ leadout=0

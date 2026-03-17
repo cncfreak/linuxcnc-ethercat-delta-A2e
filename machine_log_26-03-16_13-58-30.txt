@@ -1,0 +1,49 @@
+--- QtVCP Screen Started on: Mon, Mar 16 2026 01:09:41 PM ---
+--- Flatbed Mechanics - QtPlasmaC v2.9-238.315, powered by QtVCP and LinuxCNC ---
+Mon16 13:09: Tool 0: No Tool
+Mon16 13:09: Emergency stop cleared
+Mon16 13:09: GUI power on
+Mon16 13:10: joint 1 following error
+Mon16 13:10: GUI power off
+Mon16 13:11: GUI power on
+Mon16 13:11: Machine homed
+Mon16 13:11: Tool 0: torch
+Mon16 13:11: Machine homed
+Mon16 13:12: Loaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_circles.ngc
+Mon16 13:12: Zeroed Axis X
+Mon16 13:12: Zeroed Axis Y
+Mon16 13:12: Cycle started - Torch disabled
+Mon16 13:13: Cycle paused
+Mon16 13:13: float switch activated
+program is paused.
+Mon16 13:13: Cycle aborted
+Mon16 13:13: Machine idle
+Mon16 13:21: Zeroed Axis X
+Mon16 13:21: Zeroed Axis Y
+Mon16 13:21: Cycle started - Torch disabled
+Mon16 13:21: Cycle paused
+Mon16 13:21: Cycle aborted
+Mon16 13:21: Machine idle
+Mon16 13:21: Zeroed Axis X
+Mon16 13:21: Cycle started - Torch disabled
+Mon16 13:22: Cycle paused
+Mon16 13:22: float switch activated
+program is paused.
+Mon16 13:22: Cycle resumed
+Mon16 13:23: Cycle paused
+Mon16 13:23: float switch activated
+program is paused.
+Mon16 13:23: Cycle resumed
+Mon16 13:23: Machine idle
+Mon16 13:26: Cycle started - Torch disabled
+Mon16 13:26: Cycle paused
+Mon16 13:26: valid arc lost
+program is paused.
+Mon16 13:26: Cycle resumed
+Mon16 13:27: Machine idle
+Mon16 13:31: Cycle started - Torch enabled
+Mon16 13:32: Machine idle
+Mon16 13:33: Linear move on line 25 would exceed Y's positive limit
+Mon16 13:33: Linear move on line 25 would exceed joint 1's positive limit
+Mon16 13:33: invalid params in linear command
+Mon16 13:34: Zeroed Axis Y
