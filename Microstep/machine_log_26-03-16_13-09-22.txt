@@ -1,0 +1,51 @@
+--- QtVCP Screen Started on: Mon, Mar 16 2026 12:51:15 PM ---
+--- Flatbed Mechanics - QtPlasmaC v2.9-238.315, powered by QtVCP and LinuxCNC ---
+Mon16 12:51: Tool 0: No Tool
+Mon16 12:51: Emergency stop cleared
+Mon16 12:51: Emergency stop pressed
+Mon16 12:51: Emergency stop cleared
+Mon16 12:51: GUI power on
+Mon16 12:51: joint 2 following error
+Mon16 12:51: GUI power off
+Mon16 12:51: GUI power on
+Mon16 12:51: joint 2 following error
+Mon16 12:51: GUI power off
+Mon16 12:52: GUI power on
+Mon16 12:59: Loaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_line.ngc
+Mon16 12:59: Axis Limit Error:
+X move would exceed the maximum limit by 59.00mm
+Mon16 13:00: Machine homed
+Mon16 13:00: Tool 0: torch
+Mon16 13:01: Machine homed
+Mon16 13:01: Machine homed
+Mon16 13:03: Zeroed Axis X
+Mon16 13:03: Zeroed Axis Y
+Mon16 13:04: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_line.ngc
+Mon16 13:04: Axis Limit Error:
+X move would exceed the maximum limit by 29.25mm
+Mon16 13:04: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_line.ngc
+Mon16 13:04: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_line.ngc
+Mon16 13:04: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_line.ngc
+Mon16 13:04: Axis Limit Error:
+X move would exceed the maximum limit by 29.25mm
+Mon16 13:04: Axis Limit Error:
+X move would exceed the maximum limit by 29.25mm
+Mon16 13:04: Axis Limit Error:
+X move would exceed the maximum limit by 29.25mm
+Mon16 13:04: File ended with no percent sign (%)
+Mon16 13:04: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_line.ngc
+Mon16 13:04: can't open /tmp/emcflt-010nu87u.d/metric_line.ngc
+Mon16 13:04: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_line.ngc
+Mon16 13:04: Axis Limit Error:
+X move would exceed the maximum limit by 29.25mm
+Mon16 13:04: Axis Limit Error:
+X move would exceed the maximum limit by 29.25mm
+Mon16 13:04: File ended with no percent sign (%)
+Mon16 13:04: can't open /tmp/emcflt-010nu87u.d/metric_line.ngc
+Mon16 13:04: Loaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_wrench.ngc
+Mon16 13:05: Cycle started - Torch enabled
+Mon16 13:06: Machine idle
+Mon16 13:06: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_wrench.ngc
+Mon16 13:06: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_wrench.ngc
+Mon16 13:06: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_wrench.ngc
+Mon16 13:07: Reloaded: /home/george/linuxcnc/nc_files/examples/plasmac/metric_wrench.ngc

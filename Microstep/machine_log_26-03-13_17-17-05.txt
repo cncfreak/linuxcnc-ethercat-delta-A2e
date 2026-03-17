@@ -1,0 +1,10 @@
+--- QtVCP Screen Started on: Fri, Mar 13 2026 05:15:39 PM ---
+--- Flatbed Mechanics - QtPlasmaC v2.9-238.315, powered by QtVCP and LinuxCNC ---
+Fri13 17:15: Tool 0: No Tool
+Fri13 17:15: Emergency stop cleared
+Fri13 17:15: GUI power on
+Fri13 17:16: Float Switch has disabled jogging
+Fri13 17:16: Float Switch has disabled jogging
+Fri13 17:16: Float Switch has disabled jogging
+Fri13 17:16: GUI power off
+Fri13 17:16: GUI power on
